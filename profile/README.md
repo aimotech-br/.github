@@ -8,7 +8,7 @@ A **Aimotech** desenvolve jogos, produtos digitais e projetos de inovação para
 
 ### Frentes de Atuação
 
-- **Desenvolvimento de Jogos & IPs:** Jogos digitais e experiências interativas (como *Trilhas da Terra*, *Zombie Dead* e projetos educativos).
+- **Desenvolvimento de Jogos & IPs:** Jogos digitais e experiências interativas (como *Trilhas da Terra* e projetos educativos e territoriais).
 - **Software e Produtos Digitais:** Aplicativos, plataformas web e produtos com foco em validação e escala.
 - **Educação e Território:** Formação de talentos, laboratórios de inovação e eventos (como a *Black XP*).
 - **Consultoria Tecnológica:** Estratégia, arquitetura de sistemas e governança técnica.
